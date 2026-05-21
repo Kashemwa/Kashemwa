@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Kashemwa
+# Hi, I'm Kashemwa
 
-## 🌍 Full-Stack Developer · Geospatial Engineer · Cloud
+## Full-Stack Developer · Geospatial Engineer · Cloud
 
 *Building production-grade geospatial web architectures that bridge GIS, APIs, and scalable cloud infrastructure.*
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kashemwa Joël
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KashemwaJoël
 )
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kashemwa)
 [![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashemwajoe@gmail.com)
@@ -19,26 +19,26 @@ I'm a **Full-Stack Developer** specialized in **Geographic Information Systems (
 
 I design and ship end-to-end solutions — from **NestJS / Node.js** APIs and **PostGIS** databases to **Leaflet** & **CesiumJS** map experiences and **AWS** deployments.
 
-💡 **My strength lies in combining:**
+**My strength lies in combining:**
 
 - **Backend Engineering** — Node.js, NestJS, Python
 - **Cloud Infrastructure** — AWS, Docker, CI/CD
 - **GIS Technologies** — QGIS, GeoServer, PostGIS, Leaflet, CesiumJS
 
-➡️ into robust, scalable, production-ready architectures.
+into robust, scalable, production-ready architectures.
 
-### 🚀 Current Focus
+### Current Focus
 
-- 🛰️ Building full-stack apps with React + NestJS on AWS
-- 🗺️ Working with GeoServer, PostGIS & spatial APIs (WMS/WFS)
-- ⚙️ Improving DevOps workflows with Docker & GitHub Actions
-- 🌍 Open to remote / international opportunities
+- Building full-stack apps with React + NestJS on AWS
+- Working with GeoServer, PostGIS & spatial APIs (WMS/WFS)
+- Improving DevOps workflows with Docker & GitHub Actions
+- Open to remote / international opportunities
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 ### Backend & Frameworks
 
@@ -70,22 +70,22 @@ I design and ship end-to-end solutions — from **NestJS / Node.js** APIs and **
 
 ---
 
-## 🏆 Featured Project: Geospatial Web Platform
+## Featured Project: Geospatial Web Platform
 
 **Full-stack GIS architecture with React, NestJS, PostGIS & AWS**
 
-- 🌍 Interactive maps with **Leaflet** & **CesiumJS**
-- 🗄️ **PostGIS** as central spatial database
-- 🌐 **GeoServer** — WMS/WFS services for map layers
-- 🔗 **NestJS** REST APIs for business workflows
-- ☁️ Deployments on **AWS** (compute, storage, networking)
-- 🔒 Secure architecture (VPC, env secrets, HTTPS)
+- Interactive maps with **Leaflet** & **CesiumJS**
+- **PostGIS** as central spatial database
+- **GeoServer** — WMS/WFS services for map layers
+- **NestJS** REST APIs for business workflows
+- Deployments on **AWS** (compute, storage, networking)
+- Secure architecture (VPC, env secrets, HTTPS)
 
 > Replace this section with your real flagship project once ready (name, repo link, bullet points).
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kashemwa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile" alt="GitHub stats" />
 
@@ -95,13 +95,13 @@ I design and ship end-to-end solutions — from **NestJS / Node.js** APIs and **
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 📧 **Email:** [kashemwajoe@gmail.com](mailto:kashemwajoe@gmail.com)
-- 💼 **LinkedIn:** [your-profile](https://www.linkedin.com/in/Kashemwa Joël)
-- 🐙 **GitHub:** [github.com/Kashemwa](https://github.com/Kashemwa)
-- 🐦 **X:** [@joel_kashemwa](https://x.com/joel_kashemwa)
-- 🌐 **Portfolio:** [instabio.cc/30514220U0jm](https://instabio.cc/30514220U0jm)
+- **Email:** [kashemwajoe@gmail.com](mailto:kashemwajoe@gmail.com)
+- **LinkedIn:** [your-profile](https://www.linkedin.com/in/KashemwaJoël)
+- **GitHub:** [github.com/Kashemwa](https://github.com/Kashemwa)
+- **X:** [@joel_kashemwa](https://x.com/joel_kashemwa)
+- **Portfolio:** [instabio.cc/30514220U0jm](https://instabio.cc/30514220U0jm)
 
 ---
 
