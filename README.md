@@ -98,7 +98,7 @@ into robust, scalable, production-ready architectures.
 ## Contact
 
 - **Email:** [kashemwajoe@gmail.com](mailto:kashemwajoe@gmail.com)
-- **LinkedIn:** [your-profile](https://www.linkedin.com/in/KashemwaJoël)
+- **LinkedIn:** [KashemwaJoël](https://www.linkedin.com/in/KashemwaJoël)
 - **GitHub:** [github.com/Kashemwa](https://github.com/Kashemwa)
 - **X:** [@joel_kashemwa](https://x.com/joel_kashemwa)
 - **Portfolio:** [instabio.cc/30514220U0jm](https://instabio.cc/30514220U0jm)
