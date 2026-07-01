@@ -163,13 +163,17 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 
 </div>
 
-| |
-|:--|
-| **Technical documentation at [docs.virunga.org](https://docs.virunga.org)** |
-| Publishing geospatial system guides and platform documentation |
-| Architecture notes for Web GIS workflows and spatial APIs |
-| Operational references for conservation technology infrastructure |
-| Maintaining structured, accessible technical knowledge for field and engineering teams |
+<div align="center">
+
+<table>
+<tr><td align="left"><strong>Technical documentation at <a href="https://docs.virunga.org">docs.virunga.org</a></strong></td></tr>
+<tr><td align="left">Publishing geospatial system guides and platform documentation</td></tr>
+<tr><td align="left">Architecture notes for Web GIS workflows and spatial APIs</td></tr>
+<tr><td align="left">Operational references for conservation technology infrastructure</td></tr>
+<tr><td align="left">Maintaining structured, accessible technical knowledge for field and engineering teams</td></tr>
+</table>
+
+</div>
 
 ---
 
@@ -179,17 +183,21 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 
 </div>
 
-| |
-|:--|
-| **Full-stack GIS architecture with React, NestJS, PostGIS & AWS** |
-| Interactive maps with **Leaflet**, **OpenLayers** & **CesiumJS** |
-| **PostGIS** as central spatial database with spatial indexing & queries |
-| **GeoServer** — WMS / WFS / WMTS services for map layers |
-| **NestJS** REST APIs for business workflows and spatial operations |
-| Vector tile pipelines and client-side geospatial analysis with **Turf.js** |
-| GIS AI pipelines for **detection** & **segmentation** on geospatial imagery |
-| Deployments on **AWS** (compute, storage, networking) |
-| Secure architecture (VPC, env secrets, HTTPS) |
+<div align="center">
+
+<table>
+<tr><td align="left"><strong>Full-stack GIS architecture with React, NestJS, PostGIS & AWS</strong></td></tr>
+<tr><td align="left">Interactive maps with <strong>Leaflet</strong>, <strong>OpenLayers</strong> & <strong>CesiumJS</strong></td></tr>
+<tr><td align="left"><strong>PostGIS</strong> as central spatial database with spatial indexing & queries</td></tr>
+<tr><td align="left"><strong>GeoServer</strong> — WMS / WFS / WMTS services for map layers</td></tr>
+<tr><td align="left"><strong>NestJS</strong> REST APIs for business workflows and spatial operations</td></tr>
+<tr><td align="left">Vector tile pipelines and client-side geospatial analysis with <strong>Turf.js</strong></td></tr>
+<tr><td align="left">GIS AI pipelines for <strong>detection</strong> & <strong>segmentation</strong> on geospatial imagery</td></tr>
+<tr><td align="left">Deployments on <strong>AWS</strong> (compute, storage, networking)</td></tr>
+<tr><td align="left">Secure architecture (VPC, env secrets, HTTPS)</td></tr>
+</table>
+
+</div>
 
 ---
 
@@ -206,20 +214,18 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 
 <br/>
 
-<p align="center"><strong>Contribution Rhythm</strong></p>
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kashemwa/Kashemwa/main/assets/insights/metrics-rhythm-light.svg">
-  <img height="210" src="https://raw.githubusercontent.com/Kashemwa/Kashemwa/main/assets/insights/metrics-rhythm.svg" alt="Contribution Rhythm">
+  <img width="460" src="https://raw.githubusercontent.com/Kashemwa/Kashemwa/main/assets/insights/metrics-rhythm.svg" alt="Contribution Rhythm">
 </picture>
 </p>
 
 <br/>
 
 <p align="center">
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kashemwa&theme=tokyonight" alt="Most Used Languages" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kashemwa&theme=tokyonight" alt="Top Languages by Repo" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kashemwa&theme=tokyonight" alt="Top Languages by Commit" />
+<img height="165" src="https://raw.githubusercontent.com/Kashemwa/Kashemwa/main/assets/stats/repos-per-language.svg" alt="Top Languages by Repo" />
 </p>
 
 <br/>
