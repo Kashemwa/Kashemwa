@@ -4,7 +4,7 @@
 
 # Hi, I'm Kashemwa
 
-### Web GIS Developer · Geospatial Engineer · Cloud
+### GIS & Web GIS Developer · Geospatial Engineer · Cloud
 
 *Building production-grade geospatial web architectures that bridge GIS, APIs, and scalable cloud infrastructure.*
 
@@ -29,7 +29,7 @@
 
 **@Kashemwa**
 
-Web GIS Developer specialized in spatial web platforms, OGC services, and cloud architecture.
+GIS & Web GIS Developer specialized in spatial web platforms, OGC services, and cloud architecture.
 
 <br/>
 
@@ -46,20 +46,22 @@ Web GIS Developer specialized in spatial web platforms, OGC services, and cloud 
 
 **Core Skills**
 
-`OpenLayers` `Leaflet` `CesiumJS` `MapLibre GL` `Turf.js`
+`OpenLayers` `Leaflet` `CesiumJS` `MapLibre GL` 
 
-`PostGIS` `GeoServer` `QGIS` `GDAL` `GeoJSON`
+`PostGIS` `GeoServer` `QGIS` `GDAL` `GRASS`
 
-`NestJS` `Node.js` `Python` `Odoo` `React`
+`NestJS` `Node.js` `Python`  `React`
 
 `AWS` `Docker` `PostgreSQL` `GitHub Actions`
+
+`Odoo`
 
 </td>
 <td width="68%" valign="top">
 
 ### About Me
 
-I'm a **Web GIS Developer** specialized in **Geographic Information Systems (GIS)**, **spatial data pipelines**, and **cloud architecture**.
+I'm a **GIS & Web GIS Developer** specialized in **Geographic Information Systems (GIS)**, **spatial data pipelines**, and **cloud architecture**.
 
 I design and ship end-to-end geospatial solutions — from **NestJS / Node.js** spatial APIs and **PostGIS** databases to **Leaflet**, **OpenLayers**, **CesiumJS** map clients, **GeoServer** OGC services, and **AWS** deployments.
 
@@ -69,11 +71,12 @@ I also contribute to technical documentation on the **[Virunga Foundation docume
 
 | Area | Technologies |
 |:-----|:-------------|
-| **Web GIS & Mapping** | Leaflet, OpenLayers, CesiumJS, MapLibre GL, Turf.js, proj4js |
-| **Spatial Data & Analysis** | PostGIS, QGIS, GDAL/OGR, GeoJSON, Shapefile, GeoPandas, Rasterio |
+| **Web GIS & Mapping** | Leaflet, OpenLayers, CesiumJS, MapLibre GL, |
+| **Spatial Data & Analysis** | PostGIS, QGIS, GDAL/OGR, GeoPandas, Rasterio |
 | **OGC & Map Services** | GeoServer, WMS, WFS, WMTS, WCS, vector tiles, MBTiles |
-| **Backend Engineering** | Node.js, NestJS, Python, FastAPI, Odoo |
+| **Backend Engineering** | Node.js, NestJS, Python |
 | **Cloud Infrastructure** | AWS, Docker, CI/CD, PostgreSQL, pgRouting |
+| **Odoo** |
 
 into robust, scalable, production-ready geospatial web architectures.
 
@@ -81,7 +84,7 @@ into robust, scalable, production-ready geospatial web architectures.
 
 #### Current Focus
 
-- Building full-stack Web GIS apps with React + NestJS on AWS
+- Building full-stack Web GIS apps with React + NestJS, Odoo
 - Publishing and maintaining documentation at [docs.virunga.org](https://docs.virunga.org)
 - Working with GeoServer, PostGIS & spatial APIs (WMS / WFS / WMTS)
 - Designing vector tile pipelines and interactive map UIs
@@ -108,9 +111,8 @@ into robust, scalable, production-ready geospatial web architectures.
 ![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge)
 ![CesiumJS](https://img.shields.io/badge/CesiumJS-6CADDF?style=for-the-badge&logo=cesium&logoColor=white)
 ![MapLibre GL](https://img.shields.io/badge/MapLibre_GL-396CB2?style=for-the-badge)
-![Turf.js](https://img.shields.io/badge/Turf.js-5B6770?style=for-the-badge)
-![proj4js](https://img.shields.io/badge/proj4js-4B8BBE?style=for-the-badge)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=w3c&logoColor=white)
 
 </td>
 </tr>
@@ -139,7 +141,6 @@ into robust, scalable, production-ready geospatial web architectures.
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-306998?style=for-the-badge&logo=python&logoColor=white)
 
@@ -214,8 +215,6 @@ into robust, scalable, production-ready geospatial web architectures.
 | | Vector tile pipelines and client-side geospatial analysis with **Turf.js** |
 | | Deployments on **AWS** (compute, storage, networking) |
 | | Secure architecture (VPC, env secrets, HTTPS) |
-
-> Replace this section with your real flagship project once ready (name, repo link, bullet points).
 
 </td>
 </tr>
