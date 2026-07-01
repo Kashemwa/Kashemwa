@@ -1,0 +1,21 @@
+name: GitHub Insights Rhythm
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  rhythm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: urmzd/github-insights@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+          sections: rhythm
+          output-dir: assets/insights
+          readme-path: none
+          commit-push: true
+          commit-message: "chore: update contribution rhythm chart"
