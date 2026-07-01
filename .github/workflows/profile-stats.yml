@@ -1,0 +1,129 @@
+name: Profile Stats Assets
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: urmzd/github-insights@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+          sections: rhythm
+          output-dir: assets/insights
+          readme-path: none
+          commit-push: false
+
+      - name: Center rhythm chart in SVG
+        run: |
+          python3 << 'PY'
+          import re
+          from pathlib import Path
+
+          offset = 30
+          width = 460
+
+          for name in ("metrics-rhythm.svg", "metrics-rhythm-light.svg"):
+              path = Path("assets/insights") / name
+              if not path.exists():
+                  continue
+              svg = path.read_text(encoding="utf-8")
+              svg = svg.replace("</defs>", f'</defs><g transform="translate({offset},0)">', 1)
+              svg = svg.replace("</svg>", "</g></svg>", 1)
+              svg = svg.replace('width="808"', f'width="{width}"')
+              svg = re.sub(r'viewBox="0 0 808 340"', f'viewBox="0 0 {width} 340"', svg)
+              svg = svg.replace('<rect width="808"', f'<rect width="{width}"')
+              path.write_text(svg, encoding="utf-8")
+          PY
+
+      - name: Generate Top Languages by Repo card
+        run: |
+          python3 << 'PY'
+          import json
+          import math
+          import urllib.request
+          from collections import defaultdict
+          from pathlib import Path
+
+          username = "${{ github.repository_owner }}"
+          colors = {
+              "Python": "#3572A5",
+              "Jupyter Notebook": "#DA5B0B",
+              "TypeScript": "#3178C6",
+              "JavaScript": "#f1e05a",
+              "HTML": "#e34c26",
+              "CSS": "#563d7c",
+              "Shell": "#89e051",
+              "Dockerfile": "#384d54",
+              "Markdown": "#083fa1",
+          }
+
+          repos = json.loads(
+              urllib.request.urlopen(
+                  f"https://api.github.com/users/{username}/repos?per_page=100"
+              ).read()
+          )
+
+          totals = defaultdict(int)
+          for repo in repos:
+              langs = json.loads(urllib.request.urlopen(repo["languages_url"]).read())
+              for lang, size in langs.items():
+                  totals[lang] += size
+
+          items = sorted(totals.items(), key=lambda item: item[1], reverse=True)[:5]
+          total = sum(size for _, size in items) or 1
+
+          cx, cy, r = 120, 120, 55
+          start = -math.pi / 2
+          arcs = []
+          legend = []
+          for index, (lang, size) in enumerate(items):
+              angle = (size / total) * math.pi * 2
+              end = start + angle
+              x1 = cx + r * math.cos(start)
+              y1 = cy + r * math.sin(start)
+              x2 = cx + r * math.cos(end)
+              y2 = cy + r * math.sin(end)
+              large = 1 if angle > math.pi else 0
+              color = colors.get(lang, "#70a5fd")
+              arcs.append(
+                  f'<path d="M{cx:.2f},{cy:.2f} L{x1:.2f},{y1:.2f} A{r},{r} 0 {large},1 {x2:.2f},{y2:.2f} Z" fill="{color}"/>'
+              )
+              pct = round((size / total) * 100, 1)
+              legend.append(
+                  f'<circle cx="230" cy="{88 + index * 22}" r="5" fill="{color}"/>'
+                  f'<text x="242" y="{92 + index * 22}" fill="#38bdae" font-size="12" font-family="Segoe UI, Ubuntu, sans-serif">{lang} {pct}%</text>'
+              )
+              start = end
+
+          body = "".join(arcs + legend)
+          if not items:
+              body = '<text x="170" y="120" fill="#38bdae" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">No language data yet</text>'
+
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200">
+          <rect x="1" y="1" width="338" height="198" rx="5" ry="5" fill="#1a1b27" stroke="#1a1b27"/>
+          <text x="30" y="40" fill="#70a5fd" font-size="22" font-family="Segoe UI, Ubuntu, sans-serif">Top Languages by Repo</text>
+          <g transform="translate(0,40)">{body}</g>
+          </svg>'''
+
+          out = Path("assets/stats")
+          out.mkdir(parents=True, exist_ok=True)
+          (out / "repos-per-language.svg").write_text(svg, encoding="utf-8")
+          PY
+
+      - name: Commit generated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/insights assets/stats
+          git diff --staged --quiet || git commit -m "chore: update profile stats assets"
+          git push
