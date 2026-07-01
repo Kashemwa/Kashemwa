@@ -217,7 +217,7 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kashemwa/Kashemwa/main/assets/insights/metrics-rhythm-light.svg">
-  <img width="460" src="https://raw.githubusercontent.com/Kashemwa/Kashemwa/main/assets/insights/metrics-rhythm.svg" alt="Contribution Rhythm">
+  <img width="520" src="https://raw.githubusercontent.com/Kashemwa/Kashemwa/main/assets/insights/metrics-rhythm.svg" alt="Contribution Rhythm">
 </picture>
 </p>
 
