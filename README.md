@@ -11,7 +11,6 @@
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashemwa-jo%C3%ABl-5a858424a/)
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kashemwa)
 [![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashemwajoe@gmail.com)
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-00B8A3?style=for-the-badge&logo=linktree&logoColor=white)](https://instabio.cc/30514220U0jm)
 
 <br/>
 
@@ -50,7 +49,6 @@ GIS & Web GIS Developer
 <br/>
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kashemwajoe@gmail.com)
 <br/>
-[![Portfolio](https://img.shields.io/badge/Portfolio-00B8A3?style=flat-square&logo=linktree&logoColor=white)](https://instabio.cc/30514220U0jm)
 
 </td>
 <td valign="top">
@@ -73,13 +71,13 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 
 **Spatial Data & Analysis** — PostGIS, QGIS, GDAL/OGR, GeoPandas, Rasterio
 
-**GIS AI & Machine Learning** — PyTorch, TensorFlow, YOLO, OpenCV, TorchGeo, ONNX, scikit-learn
+**GIS AI & Machine Learning** — PyTorch, YOLO, OpenCV, ONNX,
 
-**OGC & Map Services** — GeoServer, WMS, WFS, WMTS, WCS, vector tiles, MBTiles
+**OGC & Map Services** — GeoServer, WMS, WFS, WMTS, WCS, vector tiles,
 
 **Backend Engineering** — Node.js, NestJS, Python, FastAPI
 
-**Cloud Infrastructure** — AWS, Docker, CI/CD, PostgreSQL, pgRouting
+**Cloud Infrastructure** — AWS, Docker, PostgreSQL, pgRouting
 
 **Odoo** — ERP modules, custom workflows, spatial integrations
 
@@ -89,7 +87,6 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 
 - Building full-stack Web GIS apps with React + NestJS, Odoo
 - Training GIS AI models for detection & segmentation on satellite and aerial imagery
-- Publishing and maintaining documentation at [docs.virunga.org](https://docs.virunga.org)
 - Working with GeoServer, PostGIS & spatial APIs (WMS / WFS / WMTS)
 - Designing vector tile pipelines and interactive map UIs
 - Improving DevOps workflows with Docker & GitHub Actions
@@ -126,15 +123,11 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 **GIS AI & Machine Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Rasterio](https://img.shields.io/badge/Rasterio-306998?style=flat-square&logo=python&logoColor=white)
-![TorchGeo](https://img.shields.io/badge/TorchGeo-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Backend & Frameworks**
 
@@ -223,9 +216,7 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 [![Email](https://img.shields.io/badge/Email-kashemwajoe@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kashemwajoe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KashemwaJoël-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashemwa-jo%C3%ABl-5a858424a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Kashemwa-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kashemwa)
-[![Docs](https://img.shields.io/badge/Docs-docs.virunga.org-00B8A3?style=flat-square&logo=readthedocs&logoColor=white)](https://docs.virunga.org)
 [![X](https://img.shields.io/badge/X-@joel__kashemwa-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/joel_kashemwa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-instabio.cc-00B8A3?style=flat-square&logo=linktree&logoColor=white)](https://instabio.cc/30514220U0jm)
 
 </div>
 
