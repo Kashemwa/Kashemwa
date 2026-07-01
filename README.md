@@ -24,7 +24,7 @@
 
 <table>
 <tr>
-<td width="32%" valign="top" align="center">
+<td width="32%" valign="top">
 
 ### Profile
 
@@ -59,7 +59,7 @@ GIS & Web GIS Developer specialized in spatial web platforms, OGC services, and 
 `Odoo`
 
 </td>
-<td width="68%" valign="top" align="center">
+<td width="68%" valign="top">
 
 ### About Me
 
@@ -71,14 +71,10 @@ I design and ship end-to-end geospatial solutions — from **NestJS / Node.js** 
 
 I also contribute to technical documentation on the **[Virunga Foundation documentation platform](https://docs.virunga.org)** — publishing guides, architecture notes, and operational references for geospatial systems and conservation technology workflows.
 
-<br clear="right"/>
-
-<div align="center">
-
 **My strength lies in combining:**
 
 | Area | Technologies |
-|:----:|:-------------|
+|:-----|:-------------|
 | **Web GIS & Mapping** | Leaflet, OpenLayers, CesiumJS, MapLibre GL |
 | **Spatial Data & Analysis** | PostGIS, QGIS, GDAL/OGR, GeoPandas, Rasterio |
 | **OGC & Map Services** | GeoServer, WMS, WFS, WMTS, WCS, vector tiles, MBTiles |
@@ -88,7 +84,7 @@ I also contribute to technical documentation on the **[Virunga Foundation docume
 
 into robust, scalable, production-ready geospatial web architectures.
 
-</div>
+<br clear="right"/>
 
 <br/>
 
@@ -109,11 +105,11 @@ into robust, scalable, production-ready geospatial web architectures.
 
 ---
 
-<div align="center">
-
 ## Stack
 
-<br/>
+<table>
+<tr>
+<td>
 
 #### Web GIS & Mapping
 
@@ -165,17 +161,17 @@ into robust, scalable, production-ready geospatial web architectures.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
 
-<div align="center">
-
 ## Documentation — Virunga Foundation
 
-<br/>
+<div align="center">
 
 **Technical documentation at [docs.virunga.org](https://docs.virunga.org)**
 
@@ -192,11 +188,9 @@ into robust, scalable, production-ready geospatial web architectures.
 
 ---
 
-<div align="center">
-
 ## Featured Project: Geospatial Web Platform
 
-<br/>
+<div align="center">
 
 **Full-stack GIS architecture with React, NestJS, PostGIS & AWS**
 
@@ -216,39 +210,56 @@ into robust, scalable, production-ready geospatial web architectures.
 
 ---
 
-<div align="center">
-
 ## GitHub Stats
 
-<br/>
+<table>
+<tr>
+<td width="50%" align="center">
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kashemwa&theme=tokyonight" alt="GitHub Stats" />
+
+</td>
+<td width="50%" align="center">
+
 <img height="180" src="https://streak-stats.demolab.com/?user=Kashemwa&theme=dark&hide_border=true&background=1A1A1A&ring=00B8A3&fire=00B8A3&currStreakLabel=00B8A3&sideNums=00B8A3&currStreakNum=00B8A3&dates=EFF1F6&sideLabels=EFF1F6" alt="GitHub Streak" />
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kashemwa&theme=tokyonight" alt="Most Used Languages" />
+
+</td>
+<td width="50%" align="center">
+
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kashemwa&theme=tokyonight" alt="Top Languages by Repo" />
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kashemwa&theme=tokyo-night&hide_border=true&bg_color=1a1a1a&color=00b8a3&line=00b8a3&point=eff1f6&area=true&height=300" alt="Contribution Graph" />
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Kashemwa&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
 
-<div align="center">
-
 ## Contact
 
-<br/>
+<div align="center">
 
 | | |
 |:--|:--|
