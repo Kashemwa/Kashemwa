@@ -199,16 +199,19 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 ## GitHub Stats
 
 <p align="center">
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kashemwa&theme=tokyonight" alt="GitHub Stats" />
-<img height="160" src="https://streak-stats.demolab.com/?user=Kashemwa&theme=dark&hide_border=true&background=0D1117&ring=00B8A3&fire=00B8A3&currStreakLabel=00B8A3&sideNums=00B8A3&currStreakNum=00B8A3&dates=EFF1F6&sideLabels=EFF1F6" alt="GitHub Streak" />
+<img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kashemwa&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kashemwa&theme=tokyonight" alt="Most Used Languages" />
+<img height="155" src="https://streak-stats.demolab.com/?user=Kashemwa&theme=dark&hide_border=true&background=0D1117&ring=00B8A3&fire=00B8A3&currStreakLabel=00B8A3&sideNums=00B8A3&currStreakNum=00B8A3&dates=EFF1F6&sideLabels=EFF1F6" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=Kashemwa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b8a3&line=00b8a3&point=eff1f6&area=true&height=220" alt="Contribution Graph" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kashemwa&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+<img width="650" src="https://github-readme-activity-graph.vercel.app/graph?username=Kashemwa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b8a3&line=00b8a3&point=eff1f6&area=true&height=200" alt="Contribution Graph" />
 </p>
 
 ---
@@ -217,14 +220,12 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 
 <div align="center">
 
-| | |
-|:--|:--|
-| **Email** | [kashemwajoe@gmail.com](mailto:kashemwajoe@gmail.com) |
-| **LinkedIn** | [KashemwaJoël](https://www.linkedin.com/in/kashemwa-jo%C3%ABl-5a858424a/) |
-| **GitHub** | [github.com/Kashemwa](https://github.com/Kashemwa) |
-| **Documentation** | [docs.virunga.org](https://docs.virunga.org) |
-| **X** | [@joel_kashemwa](https://x.com/joel_kashemwa) |
-| **Portfolio** | [instabio.cc/30514220U0jm](https://instabio.cc/30514220U0jm) |
+[![Email](https://img.shields.io/badge/Email-kashemwajoe@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kashemwajoe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KashemwaJoël-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashemwa-jo%C3%ABl-5a858424a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Kashemwa-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kashemwa)
+[![Docs](https://img.shields.io/badge/Docs-docs.virunga.org-00B8A3?style=flat-square&logo=readthedocs&logoColor=white)](https://docs.virunga.org)
+[![X](https://img.shields.io/badge/X-@joel__kashemwa-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/joel_kashemwa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-instabio.cc-00B8A3?style=flat-square&logo=linktree&logoColor=white)](https://instabio.cc/30514220U0jm)
 
 </div>
 
@@ -232,7 +233,7 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 
 <div align="center">
 
-*"I don't just build maps — I architect complete geospatial systems and train GIS AI models that drive real decisions."*
+*I don't just build maps — I architect complete geospatial systems and train GIS AI models that drive real decisions.*
 
 <br/>
 
