@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200">
+<rect x="1" y="1" width="338" height="198" rx="5" ry="5" fill="#1a1b27" stroke="#1a1b27"/>
+<text x="30" y="40" fill="#70a5fd" font-size="22" font-family="Segoe UI, Ubuntu, sans-serif">Top Languages by Repo</text>
+<g transform="translate(0,40)"><path d="M120.00,120.00 L120.00,65.00 A55,55 0 1,1 119.35,65.00 Z" fill="#DA5B0B"/><circle cx="230" cy="88" r="5" fill="#DA5B0B"/><text x="242" y="92" fill="#38bdae" font-size="12" font-family="Segoe UI, Ubuntu, sans-serif">Jupyter Notebook 99.8%</text><path d="M120.00,120.00 L119.35,65.00 A55,55 0 0,1 120.00,65.00 Z" fill="#3572A5"/><circle cx="230" cy="110" r="5" fill="#3572A5"/><text x="242" y="114" fill="#38bdae" font-size="12" font-family="Segoe UI, Ubuntu, sans-serif">Python 0.2%</text></g>
+</svg>
