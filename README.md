@@ -15,37 +15,32 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=00B8A3&center=true&vCenter=true&width=600&lines=GIS+%26+Web+GIS+Developer;GeoAI+%E2%80%94+Detection+%26+Segmentation;Geospatial+Engineer;Cloud+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=00B8A3&center=true&vCenter=true&width=560&lines=GIS+%26+Web+GIS+Developer;GeoAI+%E2%80%94+Detection+%26+Segmentation;Geospatial+Engineer;Cloud+Architecture" alt="Typing SVG" />
 
 <br/>
 
-[![Tech Stack](https://skillicons.dev/icons?i=nodejs,nestjs,python,pytorch,tensorflow,react,ts,tailwind,docker,aws,postgres,githubactions&perline=12)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=nodejs,nestjs,python,pytorch,tensorflow,react,ts,tailwind,docker,aws,postgres,githubactions&perline=6)](https://skillicons.dev)
 
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/33415546/137997839-52d7443a-f2f3-4f53-89be-5ef1974a9729.gif" alt="divider"/>
+---
 
-<table width="100%">
+<table>
 <tr>
-<td width="26%" valign="top">
+<td width="190" valign="top" align="center">
 
-<table width="100%">
-<tr>
-<td valign="top" align="center">
+<img src="https://github.com/Kashemwa.png" width="90" style="border-radius: 50%; border: 2px solid #00b8a3;" alt="Kashemwa"/>
 
-<img src="https://github.com/Kashemwa.png" width="110" style="border-radius: 50%; border: 2px solid #00b8a3;" alt="Kashemwa"/>
-
-<br/><br/>
+<br/>
 
 **Kashemwa Joël**  
 `@Kashemwa`
 
 <br/>
 
-GIS & Web GIS Developer  
-Spatial platforms · OGC · GeoAI · Cloud
+GIS & Web GIS Developer
 
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashemwa-jo%C3%ABl-5a858424a/)
 <br/>
@@ -58,17 +53,11 @@ Spatial platforms · OGC · GeoAI · Cloud
 [![Portfolio](https://img.shields.io/badge/Portfolio-00B8A3?style=flat-square&logo=linktree&logoColor=white)](https://instabio.cc/30514220U0jm)
 
 </td>
-</tr>
-</table>
-
-</td>
-<td width="74%" valign="top">
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+<td valign="top">
 
 ### About Me
+
+<img align="right" width="160" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Coding" />
 
 I'm a **GIS & Web GIS Developer** specialized in **Geographic Information Systems (GIS)**, **spatial data pipelines**, **GeoAI**, and **cloud architecture**.
 
@@ -78,64 +67,41 @@ I train **GIS AI models** for **object detection** and **semantic segmentation**
 
 I contribute to technical documentation on the **[Virunga Foundation documentation platform](https://docs.virunga.org)** — publishing guides, architecture notes, and operational references for geospatial systems and conservation technology workflows.
 
-</td>
-<td width="40%" valign="top" align="center">
+<br clear="right"/>
 
-<img width="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Coding" />
+**Web GIS & Mapping** — Leaflet, OpenLayers, CesiumJS, MapLibre GL
 
-</td>
-</tr>
-</table>
+**Spatial Data & Analysis** — PostGIS, QGIS, GDAL/OGR, GeoPandas, Rasterio
 
-<br/>
+**GIS AI & Machine Learning** — PyTorch, TensorFlow, YOLO, OpenCV, TorchGeo, ONNX, scikit-learn
 
-| Area | Technologies |
-|:-----|:-------------|
-| **Web GIS & Mapping** | Leaflet, OpenLayers, CesiumJS, MapLibre GL |
-| **Spatial Data & Analysis** | PostGIS, QGIS, GDAL/OGR, GeoPandas, Rasterio |
-| **GIS AI & Machine Learning** | PyTorch, TensorFlow, YOLO, OpenCV, TorchGeo, ONNX, scikit-learn |
-| **OGC & Map Services** | GeoServer, WMS, WFS, WMTS, WCS, vector tiles, MBTiles |
-| **Backend Engineering** | Node.js, NestJS, Python, FastAPI |
-| **Cloud Infrastructure** | AWS, Docker, CI/CD, PostgreSQL, pgRouting |
-| **Odoo** | ERP modules, custom workflows, spatial integrations |
+**OGC & Map Services** — GeoServer, WMS, WFS, WMTS, WCS, vector tiles, MBTiles
+
+**Backend Engineering** — Node.js, NestJS, Python, FastAPI
+
+**Cloud Infrastructure** — AWS, Docker, CI/CD, PostgreSQL, pgRouting
+
+**Odoo** — ERP modules, custom workflows, spatial integrations
 
 <br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
 
 **Current Focus**
 
-- Full-stack Web GIS with React + NestJS, Odoo
-- GIS AI detection & segmentation on satellite imagery
-- Documentation at [docs.virunga.org](https://docs.virunga.org)
-- GeoServer, PostGIS & spatial APIs (WMS / WFS / WMTS)
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
-
-- Vector tile pipelines & interactive map UIs
-- DevOps with Docker & GitHub Actions
+- Building full-stack Web GIS apps with React + NestJS, Odoo
+- Training GIS AI models for detection & segmentation on satellite and aerial imagery
+- Publishing and maintaining documentation at [docs.virunga.org](https://docs.virunga.org)
+- Working with GeoServer, PostGIS & spatial APIs (WMS / WFS / WMTS)
+- Designing vector tile pipelines and interactive map UIs
+- Improving DevOps workflows with Docker & GitHub Actions
 - Open to remote / international opportunities
 
 </td>
 </tr>
 </table>
 
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://user-images.githubusercontent.com/33415546/137997839-52d7443a-f2f3-4f53-89be-5ef1974a9729.gif" alt="divider"/>
+---
 
 ## Stack
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
 
 **Web GIS & Mapping**
 
@@ -146,7 +112,16 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=w3c&logoColor=white)
 
-<br/>
+**GIS, Spatial Data & OGC Services**
+
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![GeoServer](https://img.shields.io/badge/GeoServer-78B95A?style=flat-square)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5C4EE5?style=flat-square)
+![GeoJSON](https://img.shields.io/badge/GeoJSON-000000?style=flat-square)
+![WMS / WFS](https://img.shields.io/badge/WMS_%2F_WFS-2E7D32?style=flat-square)
+![Vector Tiles](https://img.shields.io/badge/Vector_Tiles-455A64?style=flat-square)
+![pgRouting](https://img.shields.io/badge/pgRouting-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **GIS AI & Machine Learning**
 
@@ -161,30 +136,6 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-<br/>
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**GIS, Spatial Data & OGC Services**
-
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
-![GeoServer](https://img.shields.io/badge/GeoServer-78B95A?style=flat-square)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![GDAL](https://img.shields.io/badge/GDAL-5C4EE5?style=flat-square)
-![GeoJSON](https://img.shields.io/badge/GeoJSON-000000?style=flat-square)
-![WMS / WFS](https://img.shields.io/badge/WMS_%2F_WFS-2E7D32?style=flat-square)
-![Vector Tiles](https://img.shields.io/badge/Vector_Tiles-455A64?style=flat-square)
-![pgRouting](https://img.shields.io/badge/pgRouting-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-<br/>
-
 **Backend & Frameworks**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -194,7 +145,11 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-306998?style=flat-square&logo=python&logoColor=white)
 
-<br/>
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -203,15 +158,7 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://user-images.githubusercontent.com/33415546/137997839-52d7443a-f2f3-4f53-89be-5ef1974a9729.gif" alt="divider"/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+---
 
 ## Documentation — Virunga Foundation
 
@@ -227,8 +174,7 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 
 </div>
 
-</td>
-<td width="50%" valign="top">
+---
 
 ## Featured Project: Geospatial Web Platform
 
@@ -248,36 +194,24 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 
 </div>
 
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://user-images.githubusercontent.com/33415546/137997839-52d7443a-f2f3-4f53-89be-5ef1974a9729.gif" alt="divider"/>
+---
 
 ## GitHub Stats
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="middle">
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kashemwa&theme=tokyonight" alt="GitHub Stats" />
-</td>
-<td width="50%" align="center" valign="middle">
-<img height="170" src="https://streak-stats.demolab.com/?user=Kashemwa&theme=dark&hide_border=true&background=0D1117&ring=00B8A3&fire=00B8A3&currStreakLabel=00B8A3&sideNums=00B8A3&currStreakNum=00B8A3&dates=EFF1F6&sideLabels=EFF1F6" alt="GitHub Streak" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kashemwa&theme=tokyonight" alt="Most Used Languages" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashemwa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b8a3&line=00b8a3&point=eff1f6&area=true&height=250" alt="Contribution Graph" />
-</td>
-</tr>
-</table>
+<p align="center">
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kashemwa&theme=tokyonight" alt="GitHub Stats" />
+<img height="160" src="https://streak-stats.demolab.com/?user=Kashemwa&theme=dark&hide_border=true&background=0D1117&ring=00B8A3&fire=00B8A3&currStreakLabel=00B8A3&sideNums=00B8A3&currStreakNum=00B8A3&dates=EFF1F6&sideLabels=EFF1F6" alt="GitHub Streak" />
+</p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/33415546/137997839-52d7443a-f2f3-4f53-89be-5ef1974a9729.gif" alt="divider"/>
+<p align="center">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kashemwa&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=Kashemwa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b8a3&line=00b8a3&point=eff1f6&area=true&height=220" alt="Contribution Graph" />
+</p>
+
+---
 
 ## Contact
 
