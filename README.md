@@ -1,4 +1,4 @@
-<!-- GitHub Profile README — Web GIS Developer -->
+<!-- GitHub Profile README — GIS & Web GIS Developer -->
 
 <div align="center">
 
@@ -10,10 +10,13 @@
 
 <br/>
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KashemwaJo%C3%ABl)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashemwa-jo%C3%ABl-5a858424a/)
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kashemwa)
 [![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashemwajoe@gmail.com)
-[![DOCS](https://img.shields.io/badge/DOCS-docs.virunga.org-00B8A3?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.virunga.org)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00B8A3&center=true&vCenter=true&width=600&lines=GIS+%26+Web+GIS+Developer;Geospatial+Engineer;Cloud+Architecture" alt="Typing SVG" />
 
 </div>
 
@@ -21,7 +24,7 @@
 
 <table>
 <tr>
-<td width="32%" valign="top">
+<td width="32%" valign="top" align="center">
 
 ### Profile
 
@@ -35,31 +38,32 @@ GIS & Web GIS Developer specialized in spatial web platforms, OGC services, and 
 
 **Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KashemwaJo%C3%ABl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashemwa-jo%C3%ABl-5a858424a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kashemwa)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/joel_kashemwa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kashemwajoe@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00B8A3?style=flat-square&logo=linktree&logoColor=white)](https://instabio.cc/30514220U0jm)
-[![Documentation](https://img.shields.io/badge/Virunga_Docs-docs.virunga.org-00B8A3?style=flat-square&logo=readthedocs&logoColor=white)](https://docs.virunga.org)
 
 <br/>
 
 **Core Skills**
 
-`OpenLayers` `Leaflet` `CesiumJS` `MapLibre GL` 
+`OpenLayers` `Leaflet` `CesiumJS` `MapLibre GL`
 
 `PostGIS` `GeoServer` `QGIS` `GDAL` `GRASS`
 
-`NestJS` `Node.js` `Python`  `React`
+`NestJS` `Node.js` `Python` `React`
 
 `AWS` `Docker` `PostgreSQL` `GitHub Actions`
 
 `Odoo`
 
 </td>
-<td width="68%" valign="top">
+<td width="68%" valign="top" align="center">
 
 ### About Me
+
+<img align="right" alt="Coding" width="220" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" />
 
 I'm a **GIS & Web GIS Developer** specialized in **Geographic Information Systems (GIS)**, **spatial data pipelines**, and **cloud architecture**.
 
@@ -67,18 +71,24 @@ I design and ship end-to-end geospatial solutions — from **NestJS / Node.js** 
 
 I also contribute to technical documentation on the **[Virunga Foundation documentation platform](https://docs.virunga.org)** — publishing guides, architecture notes, and operational references for geospatial systems and conservation technology workflows.
 
+<br clear="right"/>
+
+<div align="center">
+
 **My strength lies in combining:**
 
 | Area | Technologies |
-|:-----|:-------------|
-| **Web GIS & Mapping** | Leaflet, OpenLayers, CesiumJS, MapLibre GL, |
+|:----:|:-------------|
+| **Web GIS & Mapping** | Leaflet, OpenLayers, CesiumJS, MapLibre GL |
 | **Spatial Data & Analysis** | PostGIS, QGIS, GDAL/OGR, GeoPandas, Rasterio |
 | **OGC & Map Services** | GeoServer, WMS, WFS, WMTS, WCS, vector tiles, MBTiles |
 | **Backend Engineering** | Node.js, NestJS, Python |
 | **Cloud Infrastructure** | AWS, Docker, CI/CD, PostgreSQL, pgRouting |
-| **Odoo** |
+| **Odoo** | ERP modules, custom workflows, spatial integrations |
 
 into robust, scalable, production-ready geospatial web architectures.
+
+</div>
 
 <br/>
 
@@ -99,11 +109,11 @@ into robust, scalable, production-ready geospatial web architectures.
 
 ---
 
+<div align="center">
+
 ## Stack
 
-<table>
-<tr>
-<td>
+<br/>
 
 #### Web GIS & Mapping
 
@@ -114,10 +124,7 @@ into robust, scalable, production-ready geospatial web architectures.
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=w3c&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td>
+<br/>
 
 #### GIS, Spatial Data & OGC Services
 
@@ -130,10 +137,7 @@ into robust, scalable, production-ready geospatial web architectures.
 ![Vector Tiles](https://img.shields.io/badge/Vector_Tiles-455A64?style=for-the-badge)
 ![pgRouting](https://img.shields.io/badge/pgRouting-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td>
+<br/>
 
 #### Backend & Frameworks
 
@@ -144,10 +148,7 @@ into robust, scalable, production-ready geospatial web architectures.
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-306998?style=for-the-badge&logo=python&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td>
+<br/>
 
 #### Frontend
 
@@ -155,10 +156,7 @@ into robust, scalable, production-ready geospatial web architectures.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td>
+<br/>
 
 #### Cloud & DevOps
 
@@ -167,115 +165,101 @@ into robust, scalable, production-ready geospatial web architectures.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
 ---
+
+<div align="center">
 
 ## Documentation — Virunga Foundation
 
-<table>
-<tr>
-<td>
+<br/>
 
 **Technical documentation at [docs.virunga.org](https://docs.virunga.org)**
 
-| | |
-|:--|:--|
-| | Publishing geospatial system guides and platform documentation |
-| | Architecture notes for Web GIS workflows and spatial APIs |
-| | Operational references for conservation technology infrastructure |
-| | Maintaining structured, accessible technical knowledge for field and engineering teams |
+| |
+|:--|
+| Publishing geospatial system guides and platform documentation |
+| Architecture notes for Web GIS workflows and spatial APIs |
+| Operational references for conservation technology infrastructure |
+| Maintaining structured, accessible technical knowledge for field and engineering teams |
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
 ---
+
+<div align="center">
 
 ## Featured Project: Geospatial Web Platform
 
-<table>
-<tr>
-<td>
+<br/>
 
 **Full-stack GIS architecture with React, NestJS, PostGIS & AWS**
 
-| | |
-|:--|:--|
-| | Interactive maps with **Leaflet**, **OpenLayers** & **CesiumJS** |
-| | **PostGIS** as central spatial database with spatial indexing & queries |
-| | **GeoServer** — WMS / WFS / WMTS services for map layers |
-| | **NestJS** REST APIs for business workflows and spatial operations |
-| | Vector tile pipelines and client-side geospatial analysis with **Turf.js** |
-| | Deployments on **AWS** (compute, storage, networking) |
-| | Secure architecture (VPC, env secrets, HTTPS) |
+| |
+|:--|
+| Interactive maps with **Leaflet**, **OpenLayers** & **CesiumJS** |
+| **PostGIS** as central spatial database with spatial indexing & queries |
+| **GeoServer** — WMS / WFS / WMTS services for map layers |
+| **NestJS** REST APIs for business workflows and spatial operations |
+| Vector tile pipelines and client-side geospatial analysis with **Turf.js** |
+| Deployments on **AWS** (compute, storage, networking) |
+| Secure architecture (VPC, env secrets, HTTPS) |
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
 ---
+
+<div align="center">
 
 ## GitHub Stats
 
-<table>
-<tr>
-<td width="50%" align="center">
+<br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kashemwa&show_icons=true&theme=react&hide_border=true&bg_color=1a1a1a&title_color=00b8a3&icon_color=00b8a3&text_color=eff1f6&border_radius=10&rank_icon=percentile" alt="GitHub Stats"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kashemwa&theme=tokyonight" alt="GitHub Stats" />
+<img height="180" src="https://streak-stats.demolab.com/?user=Kashemwa&theme=dark&hide_border=true&background=1A1A1A&ring=00B8A3&fire=00B8A3&currStreakLabel=00B8A3&sideNums=00B8A3&currStreakNum=00B8A3&dates=EFF1F6&sideLabels=EFF1F6" alt="GitHub Streak" />
 
-</td>
-<td width="50%" align="center">
+<br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashemwa&layout=compact&theme=react&hide_border=true&bg_color=1a1a1a&title_color=00b8a3&text_color=eff1f6&border_radius=10&langs_count=8" alt="Most Used Languages"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kashemwa&theme=tokyonight" alt="Most Used Languages" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kashemwa&theme=tokyonight" alt="Top Languages by Repo" />
 
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashemwa&theme=react&hide_border=true&bg_color=1a1a1a&color=00b8a3&line=00b8a3&point=eff1f6&area=true&height=300" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kashemwa&theme=tokyo-night&hide_border=true&bg_color=1a1a1a&color=00b8a3&line=00b8a3&point=eff1f6&area=true&height=300" alt="Contribution Graph" />
 
-</td>
-</tr>
-</table>
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kashemwa&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
 
 <br/>
 
 ---
 
+<div align="center">
+
 ## Contact
 
-<table>
-<tr>
-<td width="50%">
+<br/>
 
 | | |
 |:--|:--|
 | **Email** | [kashemwajoe@gmail.com](mailto:kashemwajoe@gmail.com) |
-| **LinkedIn** | [KashemwaJoël](https://www.linkedin.com/in/KashemwaJo%C3%ABl) |
+| **LinkedIn** | [KashemwaJoël](https://www.linkedin.com/in/kashemwa-jo%C3%ABl-5a858424a/) |
 | **GitHub** | [github.com/Kashemwa](https://github.com/Kashemwa) |
 | **Documentation** | [docs.virunga.org](https://docs.virunga.org) |
-
-</td>
-<td width="50%">
-
-| | |
-|:--|:--|
 | **X** | [@joel_kashemwa](https://x.com/joel_kashemwa) |
 | **Portfolio** | [instabio.cc/30514220U0jm](https://instabio.cc/30514220U0jm) |
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
