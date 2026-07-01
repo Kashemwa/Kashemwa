@@ -67,6 +67,8 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 
 <br clear="right"/>
 
+<div align="center">
+
 **Web GIS & Mapping** — Leaflet, OpenLayers, CesiumJS, MapLibre GL
 
 **Spatial Data & Analysis** — PostGIS, QGIS, GDAL/OGR, GeoPandas, Rasterio
@@ -91,6 +93,8 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 - Designing vector tile pipelines and interactive map UIs
 - Improving DevOps workflows with Docker & GitHub Actions
 - Open to remote / international opportunities
+
+</div>
 
 </td>
 </tr>
@@ -153,9 +157,11 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 
 ---
 
+<div align="center">
+
 ## Documentation — Virunga Foundation
 
-<div align="center">
+</div>
 
 | |
 |:--|
@@ -165,13 +171,13 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 | Operational references for conservation technology infrastructure |
 | Maintaining structured, accessible technical knowledge for field and engineering teams |
 
-</div>
-
 ---
+
+<div align="center">
 
 ## Featured Project: Geospatial Web Platform
 
-<div align="center">
+</div>
 
 | |
 |:--|
@@ -185,69 +191,50 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 | Deployments on **AWS** (compute, storage, networking) |
 | Secure architecture (VPC, env secrets, HTTPS) |
 
-</div>
-
 ---
+
+<div align="center">
 
 ## GitHub Stats
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
+</div>
 
-<br/>
-
+<p align="center">
 <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kashemwa&theme=tokyonight" alt="GitHub Stats" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<br/>
-
 <img height="150" src="https://streak-stats.demolab.com/?user=Kashemwa&theme=dark&hide_border=true&background=0D1117&ring=00B8A3&fire=00B8A3&currStreakLabel=00B8A3&sideNums=00B8A3&currStreakNum=00B8A3&dates=EFF1F6&sideLabels=EFF1F6" alt="GitHub Streak" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-<br/><br/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kashemwa&theme=tokyonight" alt="Most Used Languages" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kashemwa&theme=tokyonight" alt="Top Languages by Repo" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-<br/><br/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<img width="620" src="https://github-readme-activity-graph.vercel.app/graph?username=Kashemwa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b8a3&line=00b8a3&point=eff1f6&area=true&height=200" alt="Contribution Graph" />
+</p>
 
 <br/>
 
-</td>
-</tr>
-</table>
+<p align="center"><strong>Contribution Rhythm</strong></p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kashemwa/Kashemwa/main/assets/insights/metrics-rhythm-light.svg">
+  <img height="210" src="https://raw.githubusercontent.com/Kashemwa/Kashemwa/main/assets/insights/metrics-rhythm.svg" alt="Contribution Rhythm">
+</picture>
+</p>
+
+<br/>
+
+<p align="center">
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kashemwa&theme=tokyonight" alt="Most Used Languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kashemwa&theme=tokyonight" alt="Top Languages by Repo" />
+</p>
+
+<br/>
+
+<p align="center">
+<img width="620" src="https://github-readme-activity-graph.vercel.app/graph?username=Kashemwa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b8a3&line=00b8a3&point=eff1f6&area=true&height=200" alt="Contribution Graph" />
+</p>
 
 ---
 
+<div align="center">
+
 ## Contact
+
+</div>
 
 <div align="center">
 
