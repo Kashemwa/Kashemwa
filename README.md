@@ -200,6 +200,10 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 </p>
 
 <p align="center">
+<img height="220" src="https://raw.githubusercontent.com/Kashemwa/Kashemwa/main/assets/insights/metrics-rhythm.svg" alt="Contribution Rhythm" />
+</p>
+
+<p align="center">
 <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kashemwa&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
