@@ -191,25 +191,59 @@ I contribute to technical documentation on the **[Virunga Foundation documentati
 
 ## GitHub Stats
 
-<p align="center">
-<img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kashemwa&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-<p align="center">
-<img height="155" src="https://streak-stats.demolab.com/?user=Kashemwa&theme=dark&hide_border=true&background=0D1117&ring=00B8A3&fire=00B8A3&currStreakLabel=00B8A3&sideNums=00B8A3&currStreakNum=00B8A3&dates=EFF1F6&sideLabels=EFF1F6" alt="GitHub Streak" />
-</p>
+<br/>
 
-<p align="center">
-<img height="220" src="https://raw.githubusercontent.com/Kashemwa/Kashemwa/main/assets/insights/metrics-rhythm.svg" alt="Contribution Rhythm" />
-</p>
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kashemwa&theme=tokyonight" alt="GitHub Stats" />
 
-<p align="center">
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kashemwa&theme=tokyonight" alt="Most Used Languages" />
-</p>
+</td>
+<td width="50%" align="center" valign="top">
 
-<p align="center">
-<img width="650" src="https://github-readme-activity-graph.vercel.app/graph?username=Kashemwa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b8a3&line=00b8a3&point=eff1f6&area=true&height=200" alt="Contribution Graph" />
-</p>
+<br/>
+
+<img height="150" src="https://streak-stats.demolab.com/?user=Kashemwa&theme=dark&hide_border=true&background=0D1117&ring=00B8A3&fire=00B8A3&currStreakLabel=00B8A3&sideNums=00B8A3&currStreakNum=00B8A3&dates=EFF1F6&sideLabels=EFF1F6" alt="GitHub Streak" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<br/><br/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kashemwa&theme=tokyonight" alt="Most Used Languages" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kashemwa&theme=tokyonight" alt="Top Languages by Repo" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<br/><br/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img width="620" src="https://github-readme-activity-graph.vercel.app/graph?username=Kashemwa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b8a3&line=00b8a3&point=eff1f6&area=true&height=200" alt="Contribution Graph" />
+
+<br/>
+
+</td>
+</tr>
+</table>
 
 ---
 
